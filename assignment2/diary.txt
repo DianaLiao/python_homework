@@ -1,0 +1,2 @@
+I tried to learn python.
+Python bit me.
