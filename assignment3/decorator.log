@@ -1,0 +1,12 @@
+Function: calm_jojo
+Positional parameters: none
+Keyword Paramenters: none
+
+Function: add_em_up
+Positional parameters: (2, 3, 5)
+Keyword Paramenters: none
+
+Function: write_a_dict
+Positional parameters: ({'pet': 'cat', 'age': 40, 'foot': 'warm'},)
+Keyword Paramenters: none
+
